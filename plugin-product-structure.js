@@ -1,0 +1,10 @@
+/wp-content/plugins/custom-products-api/
+    custom-products-api.php
+    /includes/
+        class-product-list.php
+        class-product-create.php
+        class-config.php
+    /assets/
+        /css/
+        /js/
+    /languages/
